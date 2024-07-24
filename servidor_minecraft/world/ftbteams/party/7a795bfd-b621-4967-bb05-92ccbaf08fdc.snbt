@@ -1,0 +1,17 @@
+{
+	id: "7a795bfd-b621-4967-bb05-92ccbaf08fdc"
+	type: "party"
+	owner: "e1045daf-1ecd-358d-9d9c-d9079626e954"
+	ranks: {
+		e1045daf-1ecd-358d-9d9c-d9079626e954: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "yDroks's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59ACFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1721101548480L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"yDroks\"}]}" }]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "e1045daf-1ecd-358d-9d9c-d9079626e954"
+	type: "player"
+	player_name: "yDroks"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "yDroks"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

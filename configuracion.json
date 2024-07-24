@@ -1,0 +1,16 @@
+{
+    "server_type": "fabric",
+    "server_version": "1.20.1",
+    "version_jdk": "17",
+    "gbs_de_ram_a_usar": "16",
+    "servicio_a_usar": "playit",
+    "actualizaciones_discord": true,
+    "webhook_de_discord": "https://discord.com/api/webhooks/1262531343527575674/lk-C9OwaF9xmUMUIS8mIYsk0m6JAR3mTtmc2QzAjAIlTfZVHzUxzkjoRWMY7npn04lbT",
+    "iniciando_servidor": true,
+    "decir_ip": true,
+    "usar_dropbox": true,
+    "token_dropbox": "sl.B5l6-lTyznI8qsSjyqLyQym-9F7f2e8m1-bsmJGCRjYELZ-vX4JpmgbebSCZTM3BVzjls_SeTyYPDD9kdsPt3YTle1kuLE-6x9k_OfDIn6BbSiPDn4opGW-oes2AMNKyu9qBwe16BVJK",
+    "debug_mode": false,
+    "flags": "-Xms2G -Xmx12G",
+    "usar_lfs": false
+}
